@@ -75,9 +75,9 @@ flutter:
   # example:
   flutter:
   fonts:
-    - family: Roboto
+    - family: UbuntuMono
       fonts:
-        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/UbuntuMono-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
